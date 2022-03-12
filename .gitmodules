@@ -1,7 +1,7 @@
 [submodule "android/contrib/deterministic-build/electrum-locale"]
 	path = android/contrib/deterministic-build/electrum-locale
 	url = https://github.com/spesmilo/electrum-locale
-[submodule "android/contrib/CalinsQRReader"]
+[submodule "android/contrib/osx/CalinsQRReader"]
 	path = android/contrib/osx/CalinsQRReader
 	url = https://github.com/spesmilo/CalinsQRReader
 [submodule "android/electrum/www"]
